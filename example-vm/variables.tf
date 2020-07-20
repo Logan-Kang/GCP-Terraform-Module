@@ -1,0 +1,5 @@
+variable "credentials" {
+}
+
+variable "project" {
+}
