@@ -38,10 +38,10 @@
 모듈 사용 방법은 다음과 같다.
 
 해당 VM 모듈은 총 4개의 옵션으로 구성되어 있다.
-> vm1 : vm with 1disk, external ip
-> vm2 : vm with 1disk, no external ip
-> vm3 : vm with 2disk, external ip
-> vm4 : vm with 2disk, no external ip
+>  - vm1 : vm with 1disk, external ip
+>  - vm2 : vm with 1disk, no external ip
+>  - vm3 : vm with 2disk, external ip
+>  - vm4 : vm with 2disk, no external ip
 
 여기에서 필요한 옵션을 선택하여 모듈을 수행하면 된다.
 동일한 옵션 사용을 위해 `instance-count`로 개수를 조절한다.
